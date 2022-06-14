@@ -1,0 +1,9 @@
+DELETE ACCOUNT instructions
+
+1. Press drawer "hamburger" icon on the left upper side of your screen.
+2. Press "Settings"
+3. Press "Account"
+4. Press on "Delete account"
+5. Confirm by pressing "Yes"
+6. (OPTIONAL) Fill out the form and write why you want to delete your account
+7. Press "Delete" button
